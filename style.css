@@ -1,0 +1,39 @@
+body {
+
+	background-color: #77B1A9;
+}
+
+#quote {
+	width: 40%;
+	height: auto;
+	margin: 200px 30%;
+	background-color: white;
+	padding-bottom: 30px;
+	overflow: hidden;
+	color: #77B1A9;
+}
+
+#quote #text {
+	margin: 5px;
+	padding: 5%;
+	font-size: 2em;
+	text-align: center;
+	
+	
+}
+
+#author , button {
+	text-align: right;
+	margin-right: 10%;
+	font-weight: bolder;
+	padding: 10px;
+}
+
+button {
+	color: white;
+	background-color: #77B1A9;
+}
+
+.curve {
+	border-radius: 0 20px 0 20px;
+}
